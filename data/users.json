@@ -1,0 +1,45 @@
+[
+
+    {
+        "name": "James",
+        "phone": "415-350-3156",
+        "email": "james@gmail.com",
+        "address": "1234 Your Address Ln, Seattle Wa 99220"
+    },
+    {
+        "name": "Adam",
+        "phone": "455-390-3465",
+        "email": "adam@gmail.com",
+        "address": "1234 This Address Ln, Spokane Wa 99220"
+    },
+    {
+        "name": "Sarah",
+        "phone": "425-380-3156",
+        "email": "sarah@gmail.com",
+        "address": "1234 That Address Ln, Missoula MT 99220"
+    },
+    {
+        "name": "David",
+        "phone": "405-370-3456",
+        "email": "david@gmail.com",
+        "address": "1234 That Address Ln, Denver CO 99220"
+    },
+    {
+        "name": "Carolyn",
+        "phone": "101-456-2345",
+        "email": "carolyn@gmail.com",
+        "address": "1234 Your Address Ln, Spokane Wa 99203"
+    },
+    {
+        "name": "Trina",
+        "phone": "406-370-1235",
+        "email": "trina@gmail.com",
+        "address": "1234 My Address Ln, Spokane Wa 99220"
+    },
+    {
+        "name": "Sam",
+        "phone": "211-370-9876",
+        "email": "sma@gmail.com",
+        "address": "1234 Some Address Ln, WalaWala Wa 99220"
+    }
+]
